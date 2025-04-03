@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Python skills<br>👯 I’m looking to collaborate on Python projects to enhance my skills<br>🤝 I’m looking for help with navigating the field of Cybersecurity<br>🌱 I’m currently learning the basics of cybersecurity and improving my Python knowledge <br>⚡ Fun fact: The stress from bugs entices me 
+🔭 I’m currently working on my Python skills<br>👯 I’m looking to collaborate on Python projects to enhance my skills<br>🤝 I’m looking for help with navigating the field of Cybersecurity<br>🌱 I’m currently learning the basics of cybersecurity and improving my Python knowledge <br>⚡ Fun fact: The stress from bugs excites me 
 
 
 ## 🌐 Socials:
